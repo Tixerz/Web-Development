@@ -9,6 +9,7 @@ div{
     border-color: black;
     outline-style: solid;
     outline-color: green;
+    outline-offset: 5px;
 
 }
 h1{
