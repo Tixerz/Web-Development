@@ -1,0 +1,14 @@
+h1{
+  border-left-style : solid ;
+  border-left-color : blue ; 
+  background-color  : lightblue ; 
+
+
+}
+p{
+  margin-top : 100px;
+  margin-left : 100px;
+  border-style : solid ; 
+  background-color : lightblue;
+  
+}
