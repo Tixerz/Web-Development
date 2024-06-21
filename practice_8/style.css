@@ -1,0 +1,30 @@
+div{
+    
+    background-color: beige;
+    border-width: 12px;
+    outline-width: 12px;
+    margin-top : 20px ;
+    margin-left :10px;
+    border-style: solid;
+    border-color: black;
+    outline-style: solid;
+    outline-color: green;
+
+}
+h1{
+    margin-left :20px ; 
+    width: 200px;
+    background-color: tomato;
+    border-left-style: solid;
+    border-left-color: blue;
+    border-left-width: 12px;
+}
+p{
+    padding-left: 10px;
+    padding-top:10px;
+    margin-left: 20px;
+    border-style: solid;
+    width: 70%;
+    height: 40px;
+    background-color: aqua;
+}
