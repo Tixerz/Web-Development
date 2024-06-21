@@ -1,0 +1,26 @@
+h1{
+    text-shadow: 2px 2px 5px blue;
+    text-align: left;
+    text-decoration-line :overline;
+    text-decoration-color:tomato;
+    text-decoration-thickness: 2px;
+
+}
+h2{
+    text-align: right;
+    text-shadow: 3px 3px 3px purple;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-thickness: 1px;
+
+
+}
+h3{
+    text-shadow: 4px 4px 4px black;
+    text-align: center;
+    text-decoration-line: line-through;
+    text-decoration-color: rgb(255, 0, 85);
+    text-decoration-thickness: 1px;
+    text-decoration-style:solid;
+}
