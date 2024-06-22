@@ -37,7 +37,7 @@ td{
 }
 .b:hover{background-color: #4B70F5;}
 .a:hover{background-color: #3DC2EC;}
-#left_top{
+#left_top{ 
     border-top-left-radius:  20px;
 }
 #left_bottom{
@@ -50,5 +50,5 @@ td{
     border-bottom-right-radius: 20px;
 }
 table{
-    box-shadow: 3px 3px 5px #5A72A0;
+    box-shadow: 3px 3px 10px #5A72A0;
 }
