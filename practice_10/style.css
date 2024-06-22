@@ -1,0 +1,50 @@
+body{
+    background-image: url("mc.jpg");
+}
+h1{
+    border-left-style: solid;
+    border-left-color:tomato;
+    border-left-width: 12px;
+    background-color: aqua;
+    width:500px
+}
+ul{
+    border:solid green;
+    outline :solid black ;       
+}
+#b1:link{
+    color: blue;
+}
+#b1:hover{
+    background-color: green;
+}
+
+#b2:link{
+    background-color: aliceblue;
+    
+    color: burlywood;
+}
+#b2:hover{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(189, 240, 47);
+}
+#b2:active{
+    background-color: blue;
+}
+
+#mcButton , #mcButton:link , #mcButton:visited{
+    margin-left: 40%;
+    color :rgb(235, 232, 232);
+    text-decoration: none;
+    background-color: #f44336;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#mcButton:hover{
+    background-color: red;
+}
