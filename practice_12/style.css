@@ -47,3 +47,6 @@ td{
 #right_bottom{
     border-bottom-right-radius: 20px;
 }
+table{
+    box-shadow: 3px 3px 4px #5A72A0;
+}
