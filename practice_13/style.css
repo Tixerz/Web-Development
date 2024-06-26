@@ -1,0 +1,29 @@
+*{
+    margin : none;
+    padding: none;
+}
+
+div{
+
+    position: sticky;
+    width: 100%;
+    top: 0;
+    margin-left: 1;
+    
+}
+a{margin-left: 0;
+    text-align: center;
+    border:1px solid black;
+    padding-right:100% ;
+    padding-left: 10%;
+    width: 100%;
+    padding-bottom: 30px;
+    text-decoration: none;
+}
+a:link , a:visited{
+    color:wheat;
+    background-color: #FFA27F;
+}
+a:hover{
+    background-color: #FF0000;
+}
