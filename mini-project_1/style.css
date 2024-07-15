@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Shabnam";
+    src: url("Fonts/Shabnam-FD.woff2") format("woff2");
+}
+body{
+    background-color: #fefaff;
+    font-family: "Shabnam";
+}
+
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    width:1006px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.poop{
+    color: rgb(44, 95, 189);
+}
+.bod{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 1006px;
+    gap: 12px;
+}
+.bod_child{
+
+    background-color: #fff;
+    box-shadow: 1px 1px 10px rgb(206, 170, 170);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    
+    
+    width: 304px;
+}
+img{
+    margin-left: -10px;
+    border-radius: 12px;
+    width: 240px;
+    height: 190px;
+    margin-bottom: 20px;
+}
+.text{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.off_perc{
+    font-size: small;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 10px;
+    color: #0093c4c0;
+    background-color: #beefff;
+    display: inline;
+}
+.off{
+    font-size: small;
+    color: gray;
+    display: inline ;
+    text-decoration: line-through;
+}
+
+.price_section{
+    margin-top: -17px;
+    display: flex;
+    justify-content: space-between;
+}
+.svg{
+    float: right;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+.bod_child:hover{
+    background-color: #b4adadab;
+}
