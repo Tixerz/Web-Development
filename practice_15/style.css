@@ -13,8 +13,9 @@
     bottom: 0;
     left: 0;
     right: 0;
-    width: 100px;
+    width: 200px;
     height: 2px;
+    border-radius: 3px;
     background-color:#04aa6d;
     margin-top: auto;
     margin-bottom: auto;
